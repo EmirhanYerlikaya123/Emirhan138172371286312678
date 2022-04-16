@@ -1,0 +1,53 @@
+{
+    "bot": {
+        "owner": "796263552771817472",
+        "footer": "YOUTUBE BORANGKDN",
+        "status": "YOUTUBE BORANGKDN",
+        "prefix": "!"
+    },
+    "economy": {
+        "dailymoney": "1-250"
+    },
+    "shopping": {
+        "product": {
+            "one": "Nitro Boost",
+            "two": "Nitro Classic",
+            "three": "Netflix",
+            "four": "Exxen",
+            "five": "3 Aylık Spotify Premium",
+            "six": "Yıllık BluTV"
+        },
+        "result": {
+            "1": "Tahmini teslimat süresi 1 gün!",
+            "2": "Tahmini teslimat süresi 1 gün!",
+            "3": "Tahmini teslimat süresi 1 gün!",
+            "4": "Tahmini teslimat süresi 1 saat!",
+            "5": "Tahmini teslimat süresi 30 dakika!",
+            "6": "Tahmini teslimat süresi 30 dakika!"
+        },
+        "prices": {
+            "1": "80000",
+            "2": "60000",
+            "3": "30000",
+            "4": "25000",
+            "5": "10000",
+            "6": "5000"
+        }
+    },
+    "employee": {
+        "staffroles": "KURUCU ROLÜ ID"
+    },
+    "channel": {
+        "commandchannel": "OYUNUN OYNANILACAĞI KANAL ID",
+        "log": "SİPARİŞ LOG KANALI ID",
+        "voice": "BOT SES KANALI ID"
+          },
+    "emojis": {
+        "dollar": "PARA EMOJİSİ",
+        "yes": "ONAY EMOJİSİ",
+        "no": "RED EMOJİSİ"
+    },
+    "workspace": {
+        "addmoney": "1-300"
+    }
+}
